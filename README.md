@@ -38,9 +38,3 @@
 - **客观评测**：价格、速度、稳定性、客服等多维度真实对比，不收广告费  
 - **全中文友好**：适合国内用户，避坑指南+使用教程  
 - **开源免费**：所有内容公开，欢迎star/fork/提issue交流
-
-### 📊 我的GitHub活跃统计
-
-```markdown
-![shodanadmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=shodanadmin&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shodanadmin&layout=compact&theme=radical)
