@@ -12,7 +12,6 @@
 <p align="center">
   <a href="https://github.com/shodanadmin?tab=repositories"><img src="https://img.shields.io/badge/查看所有项目-8+个-brightgreen?style=for-the-badge&logo=github" alt="Repositories"></a>
   <a href="https://maom.blog"><img src="https://img.shields.io/badge/个人博客-maom.blog-blue?style=for-the-badge&logo=blogger" alt="Blog"></a>
-  <img src="https://img.shields.io/badge/专注领域-机场节点·工具·VPS·GPU-orange?style=for-the-badge" alt="Focus">
 </p>
 
 ### 🔥 热门仓库一览（最新机场 & 工具合集）
