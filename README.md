@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=shodanadmin&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=40" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=jichangvps&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=40" alt="header" />
 </div>
 
-<h1 align="center">Hi 👋, 我是 shodanadmin</h1>
+<h1 align="center">Hi 👋, 我是 jichangvps</h1>
 
 <p align="center">
   <strong>专注科学上网 & 云资源分享的开源整理者</strong><br>
@@ -10,25 +10,25 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/shodanadmin?tab=repositories"><img src="https://img.shields.io/badge/查看所有项目-8+个-brightgreen?style=for-the-badge&logo=github" alt="Repositories"></a>
+  <a href="https://github.com/jichangvps?tab=repositories"><img src="https://img.shields.io/badge/查看所有项目-8+个-brightgreen?style=for-the-badge&logo=github" alt="Repositories"></a>
   <a href="https://maom.blog"><img src="https://img.shields.io/badge/个人博客-maom.blog-blue?style=for-the-badge&logo=blogger" alt="Blog"></a>
 </p>
 
 ### 🔥 热门仓库一览（最新机场 & 工具合集）
 
-- **[Clash-SSR-Proxy](https://github.com/shodanadmin/Clash-SSR-Proxy)**  
+- **[Clash-SSR-Proxy](https://github.com/jichangvps/Clash-SSR-Proxy)**  
   最新Clash、SSR、v2ray节点机场深度评测合集！红杏云、Overwall、杜卡迪、魔戒、布丁猫、袋鼠加速、尔湾云、精灵学院、渔云、FlyBit、M78星云、ssrdog、XSUS、山水云、泰山Net、万达云、稳连云、扬帆云、Biubiu、奈云等全覆盖。官网地址+价格对比+优惠码+推荐排行，一站式选机场！
 
-- **[dingyue-tools](https://github.com/shodanadmin/dingyue-tools)**  
+- **[dingyue-tools](https://github.com/jichangvps/dingyue-tools)**  
   全平台科学上网客户端工具精选合集（Windows/macOS/Linux/Android/iOS），全部直链官方GitHub Releases，安全下载最新稳定版。
 
-- **[VPSSelect](https://github.com/shodanadmin/VPSSelect)**  
+- **[VPSSelect](https://github.com/jichangvps/VPSSelect)**  
   27家国内外优质VPS服务商深度对比指南，按场景（建站/机场/科学上网/游戏/AI）分类，3分钟找到最适合你的云主机！
 
-- **[gpusuanli](https://github.com/shodanadmin/gpusuanli)**  
+- **[gpusuanli](https://github.com/jichangvps/gpusuanli)**  
   6大主流GPU算力平台横评：亿速运D算力RTX 4090仅0.98元/小时（全网最低？），闪电云、智星云、七牛云等详细对比，AI开发者/学生/企业必看！
 
-- **[Free-Clash-SSR](https://github.com/shodanadmin/Free-Clash-SSR)**  
+- **[Free-Clash-SSR](https://github.com/jichangvps/Free-Clash-SSR)**  
   免费公益机场节点资源实时收集与验证，最新可用免费节点领取信息。
 
 ### 🚀 为什么关注我？
