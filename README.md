@@ -28,9 +28,21 @@
 - **[gpusuanli](https://github.com/jichangvps/gpusuanli)**  
   6大主流GPU算力平台横评：亿速运D算力RTX 4090仅0.98元/小时（全网最低？），闪电云、智星云、七牛云等详细对比，AI开发者/学生/企业必看！
 
-- **[Free-Clash-SSR](https://github.com/jichangvps/Free-Clash-SSR)**  
-  免费公益机场节点资源实时收集与验证，最新可用免费节点领取信息。
+- **[dukadi](https://github.com/jichangvps/dukadi)**  
+  杜卡迪机场,技术领先的Hysteria2协议加速服务。
 
+- **[mojie](https://github.com/jichangvps/mojie)**
+  魔戒机场最新官网入口。
+
+- **[hongxingyun](https://github.com/jichangvps/hongxingyun)**  
+  红杏云机场官网入口，最新优惠码：hx2026。
+
+- **[overwall](https://github.com/jichangvps/overwall)**  
+  overwall机场国内最新可访问地址。
+
+- **[naiyun](https://github.com/jichangvps/naiyun)**  
+  奈云机场官网，最新国内可访问。
+  
 ### 🚀 为什么关注我？
 
 - **实时更新**：机场跑路、优惠变动、工具新版，我第一时间整理推送  
